@@ -32,7 +32,7 @@ Back-end service for an e-commerce application with user authentication, product
 
 ### 🔹 [File System Reader](https://github.com/yanpavel/FileSystemReader)  
 Tool for reading and processing filesystem structures.  
-**Tech:** Go  
+**Tech:** .Net 8  
 
 ---
 
