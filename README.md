@@ -1,6 +1,6 @@
 # Introduction
 
-💻 **Software Engineer | Automation Enthusiast**  
+💻 **Software Engineer | Backend GO**  
 
 ---
 
@@ -22,7 +22,7 @@ Built the full cycle of delivering product: from designing systems and features 
 **Language:** Go (Gorilla Mux/Chi, squirell, samber/lo, zap/logger, go-redis)
 **Performance:** K6, Yandex.Tank, Grafana  
 **CI/CD & Infrastructure:** GitLab CI, GitHub Actions, Bitbucket, Docker, Kubernetes  
-**Backend & Databases:** REST API, hRPC, PostgreSQL, MS SQL, MySQL  
+**Backend & Databases:** REST API, gRPC, PostgreSQL, MS SQL, MySQL  
 **Debug & Monitoring:** Kibana, Sentry, Prometheus, Grafana
 
 ---
