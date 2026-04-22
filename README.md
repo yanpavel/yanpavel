@@ -20,7 +20,6 @@ Built the full cycle of delivering product: from designing systems and features 
 ## 🛠️ Tech Stack  
 
 **Language:** Go (gRPC, chi, gin, sqlx, squirrel, go-redis, IBM/sarama (Kafka), samber/lo Testing: testify, gomock)
-**Performance:** K6, Yandex.Tank, Grafana  
 **CI/CD & Infrastructure:** GitLab CI, GitHub Actions, Bitbucket, Docker, Kubernetes  
 **Backend & Databases:** REST API, gRPC, PostgreSQL, MS SQL, MySQL  
 **Debug & Monitoring:** Kibana, Sentry, Prometheus, Grafana
