@@ -1,26 +1,29 @@
 # Introduction
 
-💻 **QA Engineer | Automation Enthusiast**  
+💻 **Software Engineer | Automation Enthusiast**  
 
 ---
 
 ## 🚀 About Me  
-I’m a **QA Engineer with 5+ years of experience** in building automated testing frameworks and quality processes from scratch in distributed systems.  
-📌 **2 years** of experience in **team leading** and mentoring QA engineers.  
+I’m a **Software Engineer with 5+ years ofof experience** in building distributed systems.
+
+I have experience with delivering successful products as a part of different teams - from startups to tech corporations.
+
+Built the full cycle of delivering product: from designing systems and features to establishing fully automated processes with high coverage, detailed analytics and CI/CD. 
+ 
 
 - Delivered successful products in **startups** and **tech corporations**.  
-- Built the **full QA cycle**: from documentation and feature design → to fully automated testing with **high coverage**, **detailed analytics**, and **CI/CD integration**.  
-- **Hobbies:** Testing tools development, Back-end applications, mentoring students.  
+- Built the **full delivery cycle**: from documentation and feature design → to fully automated systems with **high coverage**, **detailed analytics**, and **CI/CD integration**.  
 
 ---
 
 ## 🛠️ Tech Stack  
 
-**Automation & Tools:** Go, C#, .NET, NUnit, Selenium, SpecFlow, Allure, Selenoid, BDD, ATDD  
+**Language:** Go (Gorilla Mux/Chi, squirell, samber/lo, zap/logger, go-redis)
 **Performance:** K6, Yandex.Tank, Grafana  
 **CI/CD & Infrastructure:** GitLab CI, GitHub Actions, Bitbucket, Docker, Kubernetes  
-**Backend & Databases:** REST API, RPC, PostgreSQL, MS SQL, MySQL  
-**Debug & Monitoring:** Kibana, Sentry, Chrome DevTools, Charles Proxy  
+**Backend & Databases:** REST API, hRPC, PostgreSQL, MS SQL, MySQL  
+**Debug & Monitoring:** Kibana, Sentry, Prometheus, Grafana
 
 ---
 
@@ -30,9 +33,6 @@ I’m a **QA Engineer with 5+ years of experience** in building automated testin
 Back-end service for an e-commerce application with user authentication, product management, cart, and order logic.  
 **Tech:** Go, Gorilla Mux, PostgreSQL, REST API  
 
-### 🔹 [File System Reader](https://github.com/yanpavel/FileSystemReader)  
-Tool for reading and processing filesystem structures.  
-**Tech:** .Net 8  
 
 ---
 
@@ -47,6 +47,3 @@ Tool for reading and processing filesystem structures.
 - 📧 **Email:** yanpavel95@gmail.com  
 - 💼 [LinkedIn](https://www.linkedin.com/in/yanpavel)  
 - 💻 [GitHub](https://github.com/yanpavel)  
-
----
-⭐ *"Strive for test coverage, but never forget test quality."*
