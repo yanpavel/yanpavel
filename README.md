@@ -5,7 +5,7 @@
 ---
 
 ## 🚀 About Me  
-I’m a **Software Engineer with 5+ years ofof experience** in building distributed systems.
+I’m a **Software Engineer with 5+ years of experience** in building distributed systems.
 
 I have experience with delivering successful products as a part of different teams - from startups to tech corporations.
 
@@ -19,7 +19,7 @@ Built the full cycle of delivering product: from designing systems and features 
 
 ## 🛠️ Tech Stack  
 
-**Language:** Go (gRPC, chi, gin, sqlx, squirrel, go-redis, IBM/sarama (Kafka), samber/lo Testing: testify, gomock)
+**Language:** Go (gRPC, chi, gin, sqlx, squirrel, go-redis, IBM/sarama (Kafka), samber/lo)
 **CI/CD & Infrastructure:** GitLab CI, GitHub Actions, Bitbucket, Docker, Kubernetes  
 **Backend & Databases:** REST API, gRPC, PostgreSQL, MS SQL, MySQL  
 **Debug & Monitoring:** Kibana, Sentry, Prometheus, Grafana
